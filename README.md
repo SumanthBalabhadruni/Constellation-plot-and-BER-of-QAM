@@ -1,1 +1,1 @@
-# Constellation-plot-and-BER-of-QAM
+# Constellation plot and BER of QAM
